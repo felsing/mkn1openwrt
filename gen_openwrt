@@ -468,7 +468,7 @@ rockchip="beikeyun l1pro"
 
 device_path="./device"
 kernel_path="./common/kernel"
-firmware_path="./openwrt"
+firmware_path="./openwrt1"
 
 echo -e "Welcome to aarch64 openwrt firmware generator!\n"
 [ $(id -u) = 0 ] || die "please run this script as root"
